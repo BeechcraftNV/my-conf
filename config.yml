@@ -1,4 +1,4 @@
-baseurl: "https://beechcraftnv.github.io/my-conf/"
+baseURL: "https://beechcraftnv.github.io/my-conf/"
 title: "Conference name"
 canonifyurls: true
 theme: "hugo-conference"
